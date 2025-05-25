@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working in <a href="https://www.havelsan.com/en" target="blank">Havelsan</a>
 
-- 🌱 I’m currently Working on a Mobile App
+- 🌱 I’m currently Working on a Mac App
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Java && Spring Boot
 
 - 📫 How to reach me **mertyurekli28@gmail.com**
 
