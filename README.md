@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in <a href="https://www.havelsan.com/en" target="blank">Havelsan</a>
 
-- 🌱 I’m currently Working on a Mac App
+- 🌱 I’m currently working on a Mac App
 
 - 🤝 I’m available for freelancing.
 
